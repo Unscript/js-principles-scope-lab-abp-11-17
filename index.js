@@ -5,3 +5,4 @@ function upperCaseCustomerName(){
 }
 function setBestCustomer(){
   return  'not '+ customerName;
+}
